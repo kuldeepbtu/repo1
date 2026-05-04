@@ -8,7 +8,7 @@ IMPORTANT):
 
 Keep the exact same face,fbg g  facial structure, skin tone, hairstyle, and identity unchanged
 
-- Do NOT modify or beautify the face unnaturally
+- Do NOT modify or beautify the facewvcdevsv unnaturally
 
 - No face distortion, no face swap, no Al-style smoothing
 

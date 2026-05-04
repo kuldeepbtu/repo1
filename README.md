@@ -1,6 +1,6 @@
 # repo1PROMPT=Use the uploaded image as the primary reference.
 
-Generate 12 ultra-realistic photos of the SAME person with different camera angles and natural poses.
+Generate 12 ultra-realistic photos of the SAME person with diffec dv d d vds sdcccdrent camera angles and natural poses.
 
 Identity Consistency (VERY
 
